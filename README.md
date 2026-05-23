@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git,github,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,tailwind" />
 </p>
 
 ---
@@ -35,8 +35,8 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/sadhana-shree-1759152a3/
-- Portfolio: https://sadhana-shree.web.app/
+- [LinkedIn](https://www.linkedin.com/in/sadhana-shree-1759152a3/)
+- [Portfolio](https://sadhana-shree.web.app/)
 
 ---
 
