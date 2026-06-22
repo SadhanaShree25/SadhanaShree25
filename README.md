@@ -1,40 +1,99 @@
-# Hi there 👋 I'm Sadhana Shree
+<h1 align="center">Hi 👋, I'm Sadhana Shree</h1>
 
-🎓 Prefinal Year B.Tech Student in Artificial Intelligence & Data Science  
-💻 Frontend Developer & Open Source Contributor  
-🚀 Passionate about building modern and impactful web applications  
-🌱 Currently exploring Full Stack Development and AI-powered applications  
+<h3 align="center">
+🚀 Full Stack Developer | AI & Data Science Student | Open Source Contributor
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, solving real-world problems, and continuously improving my development skills.
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 👩‍💻 Interested in Web Development, AI, and Open Source
-- 🌐 Building responsive and user-friendly applications
-- 🤝 Active Open Source Contributor
-- 📚 Continuously learning new technologies
-- 🎯 Aspiring Full Stack Developer & AI Engineer
+🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science
+
+💻 Full Stack Developer specializing in modern web technologies
+
+🌱 Currently learning System Design and Advanced Backend Development
+
+🤝 Active Open Source Contributor
+
+📚 Strong interest in Data Structures & Algorithms
+
+🚀 Passionate about Web Development, Software Engineering, and AI
+
+🎯 Aspiring Software Engineer focused on building impactful products
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,tailwind" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
+
+---
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SadhanaShree25&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🧩 Problem Solving
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SadhanaShree25&theme=tokyonight)
----
+<p align="center">
+  <a href="https://leetcode.com/u/Sadhana_Shree/">
+    <img src="https://leetcard.jacoblin.cool/Sadhana_Shree?theme=dark&font=Nunito&ext=heatmap" />
+  </a>
+</p>
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/sadhana-shree-1759152a3/)
-- [Portfolio](https://sadhana-shree.web.app/)
+<p align="left">
+<a href="https://www.linkedin.com/in/sadhana-shree-1759152a3/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="www.linkedin.com/in/sadhana-shree-1759152a3">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://sadhana-shree.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-✨ Learning • Building • Growing
+## 💡 Fun Fact
+
+```javascript
+while(!success) {
+    learn();
+    build();
+    improve();
+}
