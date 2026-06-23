@@ -12,19 +12,16 @@ Passionate about building scalable web applications, solving real-world problems
 
 ## 👩‍💻 About Me
 
+
 🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science
 
-💻 Full Stack Developer specializing in modern web technologies
+🌱 Currently learning Backend Development
 
-🌱 Currently learning System Design and Advanced Backend Development
+📚 Enthusiast in Data Structures & Algorithms
 
-🤝 Active Open Source Contributor
+🚀 Interested in Web Development, Software Engineering, and AI
 
-📚 Strong interest in Data Structures & Algorithms
-
-🚀 Passionate about Web Development, Software Engineering, and AI
-
-🎯 Aspiring Software Engineer focused on building impactful products
+🎯 Passionate about building impactful and real-world applications
 
 ---
 
