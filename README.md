@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadhana Shree</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | AI & Data Science Student | Open Source Contributor
+🚀 Full Stack Developer | AI & Data Science Student 
 </h3>
 
 <p align="center">
